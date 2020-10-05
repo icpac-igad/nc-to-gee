@@ -1,6 +1,6 @@
 # nc-to-gee
 
-Upload Netcdf Files to GEE ImageCollection
+Upload Netcdf Files to GEE ImageCollection - Under development
 
 - Convert NetCDF file to Geotiffs, based on time
 - Create GEE metadata csv
